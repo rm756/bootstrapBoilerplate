@@ -7,4 +7,4 @@ $(function () {
   $('#worked').on('click', '.delete-row', function () {
     $(this).parent().parent().remove();
   });
-})
+});
