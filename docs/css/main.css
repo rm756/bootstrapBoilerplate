@@ -299,4 +299,11 @@ body {
     }
 }
 
+.jumbotron {
+  background-color: white !important;
+}
+
+.bg-light{
+  background-color: whitesmoke !important;
+}
 
