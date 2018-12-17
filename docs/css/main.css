@@ -13,7 +13,7 @@
    ========================================================================== */
 
    html {
-    color: #222;
+    color: papayawhip;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -105,12 +105,16 @@ textarea {
 
 
 /* Show it's not fixed to the top */
+
+
 body {
-  min-height: 75rem;
+
+  min-height: 65rem;
 }
-
-
-
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
 
 
 
